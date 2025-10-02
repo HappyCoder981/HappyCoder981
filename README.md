@@ -4,7 +4,7 @@
 🔭 I’m working on web design<br>👯 I'm looking to collaborate full stack<br>🌱 I’m currently learning web development<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/faruk-mutlu-711648326/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faruk-mutlu-711648326) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farukmutluturkiye@gmail.com) 
 
 # 💻 Tech Stack:
